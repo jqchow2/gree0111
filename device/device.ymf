@@ -1,0 +1,6 @@
+architecture: arm64
+carrier:
+cpu: msm8916_64
+download_boot: With the device powered off, hold Vol Down & SmartBotton & Power.
+image: sample.jpg
+
